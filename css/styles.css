@@ -419,6 +419,11 @@ img {
 }
 
 /* .......List of the services..... */
+.services {
+    margin-bottom: 120px;
+}
+
+
 .services-items {
     margin: 0;
     padding: 0;
