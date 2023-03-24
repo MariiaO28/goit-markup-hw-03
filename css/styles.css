@@ -407,7 +407,6 @@ img {
     display: flex;
     justify-content: center;
     margin-bottom: 48px; 
-    margin-top: 96px;
     padding-left: 0;
     padding-right: 0;
 }
@@ -422,8 +421,9 @@ img {
 
 
 /* .......List of the services..... */
-.services {
-    margin-bottom: 120px;
+.services-info {
+    padding-top: 96px;
+    padding-bottom:120px;
 }
 
 
